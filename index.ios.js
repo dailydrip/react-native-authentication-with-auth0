@@ -1,5 +1,5 @@
 import React from "react";
 import { AppRegistry } from "react-native";
-import Main from "./src/Main";
+import LoginScreen from "./src/LoginScreen";
 
-AppRegistry.registerComponent("LoginsInReactNative", () => Main);
+AppRegistry.registerComponent("LoginsInReactNative", () => LoginScreen);
